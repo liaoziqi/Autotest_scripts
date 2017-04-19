@@ -1,4 +1,4 @@
 # Autotest_scripts
 
-1.Internet_loading_time
-    This scripts could tested the web's loading time.
+Internet_loading_time.py<br>
+>>This scripts could test the web's loading time.
